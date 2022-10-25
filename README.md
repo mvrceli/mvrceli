@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jan</h1>
 <h3 align="center">A passionate programmer from Poland</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsj2BRmu95Tyhta-LV0PK9galXcpWHy1V9yP3heqlnzXONCBvDI4UqHtn4OWhqhOEztiU&usqp=CAU)">
+<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsj2BRmu95Tyhta-LV0PK9galXcpWHy1V9yP3heqlnzXONCBvDI4UqHtn4OWhqhOEztiU&usqp=CAU">
 
 - 🔭 I’m currently working on **my first mobile app**
 
