@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jan</h1>
 <h3 align="center">A passionate programmer from Poland</h3>
+<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/cat-kitten-computer-3oKIPnAiaMCws8nOsE">
 
 - 🔭 I’m currently working on **my first mobile app**
 
