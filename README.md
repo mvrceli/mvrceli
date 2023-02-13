@@ -2,11 +2,9 @@
 <h3 align="center">A passionate programmer from Poland</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsj2BRmu95Tyhta-LV0PK9galXcpWHy1V9yP3heqlnzXONCBvDI4UqHtn4OWhqhOEztiU&usqp=CAU">
 
-- 🔭 I’m currently working on **my first mobile app**
-
 - 🌱 I’m currently learning **Business Analytics at UvA**
 
-- 🤝 I’m looking for help with **VR projects**
+- 🤝 I’m looking for help with **an internship**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
