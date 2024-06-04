@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently studying **Artificial Intelligence at VU**
 
-- 🤝 I’m looking for help with **an internship**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jan-czarnecki-181733251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jan-czarnecki-181733251" height="30" width="40" /></a>
